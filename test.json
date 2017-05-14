@@ -1,0 +1,9 @@
+{
+  "result" : "successful",
+  "test" : {
+    "internal" : "unknown"
+  },
+  "array":[{
+    "ind":"one"
+  }]
+}
